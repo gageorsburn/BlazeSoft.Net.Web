@@ -1,0 +1,8 @@
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\bin\BlazeSoft.Net.Web.dll.config
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\bin\BlazeSoft.Net.Web.XML
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\bin\BlazeSoft.Net.Web.dll
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\bin\BlazeSoft.Net.Web.pdb
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\obj\Debug\BlazeSoft.Net.Web.Properties.Resources.resources
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\obj\Debug\BlazeSoft.Net.Web.csproj.GenerateResource.Cache
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\obj\Debug\BlazeSoft.Net.Web.dll
+C:\Users\Gage\Desktop\Work\Projects\BlazeSoft.Net.Web\obj\Debug\BlazeSoft.Net.Web.pdb

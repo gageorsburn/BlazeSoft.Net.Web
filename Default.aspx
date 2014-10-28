@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" validateRequest="false" AutoEventWireup="true" Inherits="BlazeSoft.Net.Web.Core.Web" WarningLevel="4"%>
